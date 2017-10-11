@@ -1,5 +1,5 @@
 button {
-  background-color: yellow;
+  background-color: red;
 }
 body {
   display: flex;
@@ -33,4 +33,16 @@ input{
 
 addOption{
   margin-top: 10px;
+}
+
+h1 {
+  color: red;
+}
+
+button{
+  color: white;
+}
+
+h1{
+  background-color: green;
 }
